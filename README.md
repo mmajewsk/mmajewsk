@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   - My Phd about Machine Learning for High Energy Physics
+  - Some software for LHCb@CERN [Titania](https://gitlab.cern.ch/mmajewsk/titania) and [Storck](https://gitlab.cern.ch/mmajewsk/storck).
   - [Tonic](https://github.com/mmajewsk/Tonic) - autonomous car
   - [Lartpc2D](https://github.com/mmajewsk/gym-lartpc2d) - reinforcement learning
 - 🌱 I’m currently learning
