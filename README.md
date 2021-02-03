@@ -17,7 +17,7 @@
   - (High Energy) Physics
   - Python
 - 📫 How to reach me: The best way is to reach me on [PyData Kraków discord channel](https://discord.gg/Pksa7n8)
-
+- 👨‍🏫 I am also teaching a course called "Python in the Enterprise", you can check some of my students projects [here](https://github.com/mmajewsk/PythonInTheEnterprise-Projects)
 <!--
 **mmajewsk/mmajewsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
