@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My phd thesis is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
+My **phd thesis** is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
 
 How is my [PhD Going](https://mmajewsk.github.io/howisyourphd/) and here 
 
