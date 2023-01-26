@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-How is my [PhD Going](https://mmajewsk.github.io/howisyourphd/)
+My phd thesis is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
+
+How is my [PhD Going](https://mmajewsk.github.io/howisyourphd/) and here 
 
 - 🔭 I’m currently working on:
   - My Phd about Machine Learning for High Energy Physics
