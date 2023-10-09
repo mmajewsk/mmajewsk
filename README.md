@@ -2,15 +2,14 @@
 
 My **phd thesis** is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
 
-
-- 🔭 I’m currently working on:
+- 💼 Currently working for omniaz
+- 🔭 Most recent research
   - My Phd about Machine Learning for High Energy Physics
   - Some software for LHCb@CERN [Titania](https://gitlab.cern.ch/mmajewsk/titania) and [Storck](https://gitlab.cern.ch/mmajewsk/storck).
   - [Tonic](https://github.com/mmajewsk/Tonic) - autonomous car
   - [Lartpc2D](https://github.com/mmajewsk/gym-lartpc2d) - reinforcement learning
 - 🌱 I’m currently learning:
-  - Reading a lot on machine learning, and high energy physics
-  - How to use VESC to build autonomous skateboard
+  - Few shot learning
 - 👯 I’m looking to: collaborate on projects that apply ML & computer vision to the real world.
 - 💬 Let's talk about: 
   - Machine Learning
