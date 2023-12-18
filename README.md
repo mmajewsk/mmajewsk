@@ -2,7 +2,7 @@
 
 My **phd thesis** is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
 
-- 💼 Currently working for omniaz
+- 💼 Currently looking for employment
 - 🔭 Most recent research
   - My Phd about Machine Learning for High Energy Physics
   - Some software for LHCb@CERN [Titania](https://gitlab.cern.ch/mmajewsk/titania) and [Storck](https://gitlab.cern.ch/mmajewsk/storck).
