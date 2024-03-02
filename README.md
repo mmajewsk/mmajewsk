@@ -2,7 +2,7 @@
 
 My **phd thesis** is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajewski)
 
-- 💼 Currently looking for employment
+- 💼 **Currently looking for employment**
 - 🔭 Most recent research
   - My Phd about Machine Learning for High Energy Physics
   - Some software for LHCb@CERN [Titania](https://gitlab.cern.ch/mmajewsk/titania) and [Storck](https://gitlab.cern.ch/mmajewsk/storck).
@@ -10,6 +10,7 @@ My **phd thesis** is ➡️ [here](https://github.com/mmajewsk/phd_thesis_mmajew
   - [Lartpc2D](https://github.com/mmajewsk/gym-lartpc2d) - reinforcement learning
 - 🌱 I’m currently learning:
   - Few shot learning
+  - NLP
 - 👯 I’m looking to: collaborate on projects that apply ML & computer vision to the real world.
 - 💬 Let's talk about: 
   - Machine Learning
